@@ -1,5 +1,7 @@
 # EBW-DSS — ML benchmark and Pareto-based decision support for electron-beam welding
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21204586.svg)](https://doi.org/10.5281/zenodo.21204586)
+
 Reproducibility repository for the manuscript *“Multi-output machine-learning
 benchmark and Pareto-based decision support for electron-beam welding of
 thin-walled titanium structures with comparative synthetic-data augmentation”*
