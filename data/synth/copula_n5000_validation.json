@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "generator": "copula",
+    "n_synth": 5000,
+    "fit_time_s": 0.04,
+    "sample_time_s": 0.848,
+    "validation_time_s": 0.114,
+    "ks_p_mean": 0.2531528410881917,
+    "ks_p_min": 0.0013477430744562623,
+    "ad_p_mean": 0.0013117351505906167,
+    "mmd_rbf": 0.016334522565689347,
+    "energy_distance": 0.08650822453211937,
+    "sliced_w2": 0.24988350740692483,
+    "wasserstein_mean": 1.0642776622004537,
+    "psi_mean": 2.5962658438260897,
+    "psi_max": 5.460781808138976
+  },
+  "per_column": {
+    "ks_per_column": [
+      {
+        "column": "IW",
+        "ks_statistic": 0.05908888888888889,
+        "ks_pvalue": 0.9527403505571617
+      },
+      {
+        "column": "IF",
+        "ks_statistic": 0.13468888888888889,
+        "ks_pvalue": 0.1386824352235687
+      },
+      {
+        "column": "VW",
+        "ks_statistic": 0.21044444444444443,
+        "ks_pvalue": 0.003091270831097875
+      },
+      {
+        "column": "FP",
+        "ks_statistic": 0.22353333333333333,
+        "ks_pvalue": 0.0013477430744562623
+      },
+      {
+        "column": "Depth",
+        "ks_statistic": 0.10613333333333333,
+        "ks_pvalue": 0.3742664926020943
+      },
+      {
+        "column": "Width",
+        "ks_statistic": 0.15917777777777778,
+        "ks_pvalue": 0.048788754240771504
+      }
+    ],
+    "psi_per_column": [
+      {
+        "column": "IW",
+        "psi": 0.10554567666439223
+      },
+      {
+        "column": "IF",
+        "psi": 4.268107156429534
+      },
+      {
+        "column": "VW",
+        "psi": 4.429791004758117
+      },
+      {
+        "column": "FP",
+        "psi": 5.460781808138976
+      },
+      {
+        "column": "Depth",
+        "psi": 0.6107781169099248
+      },
+      {
+        "column": "Width",
+        "psi": 0.702591300055595
+      }
+    ],
+    "wasserstein_per_column": [
+      {
+        "column": "IW",
+        "wasserstein": 0.15573333333333317
+      },
+      {
+        "column": "IF",
+        "wasserstein": 0.943688888888889
+      },
+      {
+        "column": "VW",
+        "wasserstein": 0.39671409348785464
+      },
+      {
+        "column": "FP",
+        "wasserstein": 4.8222000000000005
+      },
+      {
+        "column": "Depth",
+        "wasserstein": 0.026567941528815427
+      },
+      {
+        "column": "Width",
+        "wasserstein": 0.04076171596382968
+      }
+    ]
+  }
+}

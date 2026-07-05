@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "EBW-DSS: Multi-output ML benchmark and Pareto-based decision support for electron-beam welding"
+authors:
+  - family-names: "Tynchenko"
+    given-names: "Valeriya V."
+  - family-names: "Kurashkin"
+    given-names: "Sergei O."
+  - family-names: "Bukhtoyarov"
+    given-names: "Vladimir V."
+  - family-names: "Tee"
+    given-names: "Connie"
+  - family-names: "Borodulin"
+    given-names: "Aleksei S."
+  - family-names: "Mikhailov"
+    given-names: "Artem Y."
+  - family-names: "Tynchenko"
+    given-names: "Vadim S."
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
