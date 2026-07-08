@@ -87,11 +87,3 @@ disconnect (the launcher already uses `nohup` per shard).
 - **Large artefacts.** `runs/` and `mlruns/` are git-ignored; the full
   per-configuration results and synthetic data are intended for a Zenodo
   deposit referenced from the manuscript.
-
-## To confirm before public release
-
-- `LICENSE` holder/year and the license choice itself (MIT is a placeholder).
-- `CITATION.cff` author list and release metadata.
-- The manuscript sources are not tracked in this repository; the paper
-  figures are produced by the analysis scripts (`eda.py`, `run_s7.py` +
-  post-processing, `run_s9_inverse.py`, `run_s11_interpret.py`).
